@@ -1,2 +1,0 @@
-# Codewars
- Learning Python
